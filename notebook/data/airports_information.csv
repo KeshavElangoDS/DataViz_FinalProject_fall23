@@ -1,0 +1,11 @@
+Airport Code,Airport Name,City Name,Latitude,Longitude,City Name geo_name_id,Country Name geo_name_id,coordinates
+DFW,Dallas/Fort Worth International,Dallas,32.896944,-97.038056,5722064,6252001.0,"32.896944, -97.038056"
+OAK,Oakland International Airport,Oakland,37.716667,-122.216667,5378538,6252001.0,"37.716667, -122.216667"
+SMF,Sacramento International,Sacramento,38.7,-121.616667,5389489,6252001.0,"38.7, -121.616667"
+MCI,Kansas City International Airport,Kansas City,39.291667,-94.730556,4393217,6252001.0,"39.291667, -94.730556"
+JFK,John F Kennedy Intl,New York,40.633333,-73.783333,5128581,6252001.0,"40.633333, -73.783333"
+PHL,Philadelphia International,Philadelphia,39.871944,-75.241111,5131095,6252001.0,"39.871944, -75.241111"
+BOI,Boise Air Terminal/Gowen Field,Boise,43.564444,-116.222778,5586437,6252001.0,"43.564444, -116.222778"
+SNA,John Wayne,Santa Ana,33.666667,-117.866667,5392900,6252001.0,"33.666667, -117.866667"
+ATL,Hartsfield-jackson Atlanta International,Atlanta,33.636667,-84.428056,4883772,6252001.0,"33.636667, -84.428056"
+SEA,Seattle-Tacoma International,Seattle,47.448889,-122.309444,5809844,6252001.0,"47.448889, -122.309444"
